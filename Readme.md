@@ -1,6 +1,6 @@
 # Hey, there everyone `Jay Shah` here
 
-## [Live Project Demo](https://trend-in-2025.netlify.app/)
+## [Live Project Demo](https://digital-marketing-home-page-iota.vercel.app/)
 
 <br>
 <br>
